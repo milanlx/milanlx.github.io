@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuan Li / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xuan Li"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuan Li (sidebar)"
-  avatar           : "profile.png"
+  name             : "Xuan Li"
+  avatar           : "800x800_photo.jpg"
   bio              : "PhD Candidate in Civil Engineering, CMU"
   location         : "Pittsburgh"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=iDNzpbYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
