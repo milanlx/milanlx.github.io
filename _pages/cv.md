@@ -57,3 +57,10 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Other Activities
+======
+* action 1
+* action 2
+  * action 2.1 
+  * action 2.2
