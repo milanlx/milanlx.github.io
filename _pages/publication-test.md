@@ -1,6 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Publications"
 permalink: /publication-test/
 author_profile: true
 ---
@@ -9,9 +8,9 @@ Published
 ======
 
 * Jounrnal paper
-  * Jounrnal paper 1:
-  * Jounrnal paper 2:
+  * Theoretical Analysis on Strain Transfer Error of FBG Sensors Attached on Steel Structures Subjected to Fatigue Load. \n\n [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/str.12195)
+  * A wireless fatigue monitoring system utilizing a bio-inspired tree ring data tracking technique. \n\n [link](https://www.mdpi.com/1424-8220/14/3/4364/htm)
   
 * Conference paper
-  * conference paper 1:
-  * conference paper 2:
+  * Towards an Occupancy-Enhanced Building HVAC Control Strategy Using Wi-Fi Probe Request Information. \n\n [link](https://www.mdpi.com/1424-8220/14/3/4364/htm)
+  * An optimized FBG-based fatigue monitoring strategy on deepwater risers. \n\n [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9276/927620/An-optimized-FBG-based-fatigue-monitoring-strategy-on-deepwater-risers/10.1117/12.2072847.full?SSO=1)
