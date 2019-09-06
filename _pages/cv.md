@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Dalian University of Technology, in Civil Engineering, 2011.6
+* M.S. Dalian University of Technology, in Structural Engineering, 2014.6
+* M.S. Carnegie Mellon University, in Machine Learning, 2020.5 (expected)
+* Ph.D. Carnegie Mellon University, in Civil Engineering, 2020.12 (expected)
+
 
 Work experience
 ======
