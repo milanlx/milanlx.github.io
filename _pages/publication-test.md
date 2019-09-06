@@ -16,5 +16,4 @@ Published
   * An optimized FBG-based fatigue monitoring strategy on deepwater risers.  [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9276/927620/An-optimized-FBG-based-fatigue-monitoring-strategy-on-deepwater-risers/10.1117/12.2072847.full?SSO=1)
   * Optimization analysis and experimental validation of distributed optical fiber sensors for pavement monitoring based on strain transfer mechanism. [link](https://www.researchgate.net/publication/309282249_Optimization_analysis_and_experimental_validation_of_distributed_optical_fiber_sensors_for_pavement_monitoring_based_on_strain_transfer_mechanism)
 
-* <span style="color:blue">some *test of different color.* text</span>
 
