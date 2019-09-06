@@ -11,58 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. Dalian University of Technology, in Civil Engineering, 2011.6
-* M.S. Dalian University of Technology, in Structural Engineering, 2014.6
-* M.S. Carnegie Mellon University, in Machine Learning, 2020.5 (expected)
-* Ph.D. Carnegie Mellon University, in Civil Engineering, 2020.12 (expected)
+* B.S. Dalian University of Technology, in Civil Engineering, 2007.9 - 2011.6
+* M.S. Dalian University of Technology, in Structural Engineering, 2011.9 - 2014.6
+* M.S. Carnegie Mellon University, in Machine Learning, 2018.9 - 2020.5 (expected)
+* Ph.D. Carnegie Mellon University, in Civil Engineering, 2016.9 - 2020.12 (expected)
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016.3 - 2016.9: Data Scientist @ LeanFM Technologies
+  * Designed efficient raw text data processing pipeline, conducted feature selection testing and implemented Named Entity Recognition algorithm to extract domain-specific information from unstructured work order (facility management) dataset.
+  * Designed interactive interface (R Shiny) for data visualization and analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Course Work
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming and Algorithm: Introduction to Computer Systems (15513); Algorithms and Advanced Data Structures (15650); Data Structure for Application Programmers (08722); Java and J2EE Programming (08600)
+* Machine Learning and Statistics: Introduction to Machine Learning (10701); Machine Learning with Large Datasets (10605); Machine Learning for Text Mining (11741); Reinforcement Learning (10703); Topics in Deep Learning (10707); Regression Analysis (36707)
+* Control and Optimization: Convex Optimization (10725); Dynamic Programming (47840); Stochastic Control and Application in Finance (21882)
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2016, 2017: Data Acquisition (12740)
+* 2017, 2018, 2019: Mechanical and Electrical System Design for Buildings (12748)
+* 2019: Sustainable Buildings (12747)
   
-Service and leadership
+Award and Scholarships
 ======
-* Currently signed in to 43 different slack teams
+* 2016 - 2018: Carnegie Mellon University CIT Dean's Fellowships
+* 2017: Fenves Travel Grant
 
-Other Activities
-======
-* action 1
-* action 2
-  * action 2.1 
-  * action 2.2
