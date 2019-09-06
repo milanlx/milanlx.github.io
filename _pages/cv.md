@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. Dalian University of Technology, in Civil Engineering, 2007.9 - 2011.6
-* M.S. Dalian University of Technology, in Structural Engineering, 2011.9 - 2014.6
-* M.S. Carnegie Mellon University, in Machine Learning, 2018.9 - 2020.5 (*expected*)
-* Ph.D. Carnegie Mellon University, in Civil Engineering, 2016.9 - 2020.12 (*expected*)
+* B.S. Dalian University of Technology, *Civil Engineering*, 2007.9 - 2011.6
+* M.S. Dalian University of Technology, *Structural Engineering*, 2011.9 - 2014.6
+* M.S. Carnegie Mellon University, *Machine Learning*, 2018.9 - 2020.5 (*expected*)
+* Ph.D. Carnegie Mellon University, *Civil Engineering*, 2016.9 - 2020.12 (*expected*)
 
 
 Work experience
