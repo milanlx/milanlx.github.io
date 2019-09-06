@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-general academic informantion 
+Hi My name is Xuan Li, a fourth year PhD student in Civil Engineering at CMU, with a master in Machine Learning. 
