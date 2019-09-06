@@ -8,7 +8,7 @@ Published
 ======
 
 * Jounrnal paper
-  * Theoretical Analysis on Strain Transfer Error of FBG Sensors Attached on Steel Structures Subjected to Fatigue Load. <br/> [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/str.12195)
+  * Theoretical Analysis on Strain Transfer Error of FBG Sensors Attached on Steel Structures Subjected to Fatigue Load. <br/> *[Link]*(https://onlinelibrary.wiley.com/doi/pdf/10.1111/str.12195)
   * A wireless fatigue monitoring system utilizing a bio-inspired tree ring data tracking technique. <br/> [link](https://www.mdpi.com/1424-8220/14/3/4364/htm)
   
 * Conference paper
