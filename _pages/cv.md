@@ -29,13 +29,6 @@ Course Work
 * **Programming and Algorithm**: Introduction to Computer Systems (15513); Algorithms and Advanced Data Structures (15650); Data Structure for Application Programmers (08722); Java and J2EE Programming (08600)
 * **Machine Learning and Statistics**: Introduction to Machine Learning (10701); Machine Learning with Large Datasets (10605); Machine Learning for Text Mining (11741); Reinforcement Learning (10703); Topics in Deep Learning (10707); Regression Analysis (36707)
 * **Control and Optimization**: Convex Optimization (10725); Dynamic Programming (47840); Stochastic Control and Application in Finance (21882)
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
  
   
 Teaching
