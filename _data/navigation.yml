@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications (org)"
-    url: /publications/
   
   - title: "Publications"
     url: /publication-test/
