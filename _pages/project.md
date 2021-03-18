@@ -18,7 +18,7 @@ Current
   * **motivation**: to be added. {% include youtubePlayer.html id=page.detectionVideo %}
 
 * *test of image*
-  * **motivation**: ![test of image](images/500x300.png "project image")
+  * **motivation**: test of image <br/><img src='/images/500x300.png'>
   
 Interests
 ======  
