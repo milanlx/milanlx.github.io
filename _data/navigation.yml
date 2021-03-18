@@ -10,4 +10,7 @@ main:
   - title: "Project"
     url: /project/
     
+  - title: "Blog"
+    url: /blog/
+    
 
