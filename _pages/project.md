@@ -16,6 +16,9 @@ Current
 
 * *traffic tracking*
   * **motivation**: to be added. {% include youtubePlayer.html id=page.detectionVideo %}
+
+* *test of image*
+  * **motivation**: ![test of image](images/500x300.png "project image")
   
 Interests
 ======  
