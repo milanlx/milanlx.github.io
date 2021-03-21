@@ -16,14 +16,14 @@ Research Projects
 
 
 * *Enhancing Vision-based Vehicle Detection and Tracking with Transportation Domain Features*
-  * **motivation**: Given the rapid development in visual analytics, data sensing and transmission, an integration of the rich and diverse information would bring new perspective to urban traffic tracking for Intelligent Transportation Systems (ITS), which aims at improving urban mobility, reducing congestion and boosting travel safety by analyzing key traffic parameters including speed, volume, and density. Traditionally, these parameters are mainly inferred from data captured by loop detectors, which is costly and only sparsely deployed in city scale. As an alternative, vision-based inference have been widely applied due to high precision of convolutional models as well as cost effectiveness of camera as sensors. However, the performance of pure vision techniques may be hampered by the high occlusion, low resolution and strong sunlight reflection natures that occur often in transportation environments. Thus, in this series of research the authors explore the effectiveness of fusing domain features captured by existng transportation sensors with vision-based models for traffic parameter inference. 
+  * **motivation**: Given the rapid development in visual analytics, data sensing and transmission, an integration of the rich and diverse information would bring new perspective to urban traffic tracking for Intelligent Transportation Systems (ITS), which aims at improving urban mobility, reducing congestion and boosting travel safety by analyzing key traffic parameters including speed, volume, and density. Traditionally, these parameters are mainly inferred from data captured by loop detectors, which is costly and only sparsely deployed in city scale. As an alternative, vision-based inference have been widely applied due to high precision of convolutional models as well as cost effectiveness of camera as sensors. However, the performance of pure vision techniques may be hampered by the high occlusion, low resolution and strong sunlight reflection natures that occur often in transportation environments. Thus, in this series of research the authors explore the effectiveness of fusing domain features captured by existng transportation sensors with vision-based models for traffic parameter inference. Specifically, we have leveraged traffic features with convolutional neural networks to estimate vehicle density and speed (through tracking) separately. Compared with pure visual techniques, it is validated that the inclusion of domain features can improve the overall performance, and we look forward to expanding the model for other transportation related tasks in future. 
  
   * **detection**:
 
-  * **tracking**: to be added. {% include youtubePlayer2.html id=page.detectionVideo %}
+  * **tracking**: to be added. 
+{% include youtubePlayer2.html id=page.detectionVideo %}
+<br/><img src='/images/500x300.png'>
 
-* *test of image*
-  * **motivation**: test of image <br/><img src='/images/500x300.png'>
 
 Course Projects 
 ------ 
