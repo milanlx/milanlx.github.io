@@ -21,9 +21,9 @@ Research Projects
   * **detection**: The detailed implementation can be found [here](https://milanlx.github.io/files/trans_detection.pdf)
 
 
-  * **tracking**: to be added. 
-{% include youtubePlayer2.html id=page.detectionVideo %}
-<p align="center"><img src='/images/tracking_framework.png'></p>
+  * **tracking**: The speed estimation problem is tackled by traking-by-detection framework. Basically, we have fine-tuned YOLO with self-labelled data as detector, and adopted Deepsort framework as tracker. However, we used LSTM network trained with transportation features instead of the Kalman filter as the state estimation module. A sample of the result can be found in the video below. 
+                                 <p align="center"><img width="910" height="470" src='/images/tracking_framework.png'></p>
+                                                   {% include youtubePlayer2.html id=page.detectionVideo %}
 
 
 Course Projects 
