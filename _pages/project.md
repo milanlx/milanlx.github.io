@@ -33,3 +33,8 @@ Course Projects
   - Trained and validated the model on TRANSCOS dataset with ~1200 images, evaluated the effectiveness of various data augmentation tricks such as flipping, cropping, and adjusting contrast/brightness. 
   - Attained a 4.47 MAE that is comparable to state-of-the-art models. The full report can be found [here](https://milanlx.github.io/files/10707_project.pdf). 
 
+* *Regression Analysis*
+  - Investigated patterns and developed classification models that help to refine advertising strategies for regular check-ups in less developed countries. The full report is listed [here](https://milanlx.github.io/files/36707_project3.pdf). Essentially,
+  - A random forest model is chosen to rank the importance of covariates that motivate regular check-ups.
+  - A logistic regression model is implemented to identify key features and reference likelihood of the people that can be potentially persuaded for check-up. 
+
