@@ -10,7 +10,7 @@ youtubeId: detectionVideo
 
 
 Research Projects 
------- 
+--------------
 * *Using Multi-modal Transportation Data For Energy Prediction and Management in Buildings*
   * **motivation**: Urban systems, including transporations and buildings are highly interrelated given the spatial-temporal flow of system users. The change of magnitude of occupancy in one system can be in proportion to the fluctuation in one another. In this project we aim at investigating the edge potential of predicting the energy profile of buildings, from the rich and fine-grained transportation data including realtime traffic flow intensity, and public transit status. The refined prediction would further facilitate energy-efficient demand-based building control. [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1637222)
 
@@ -27,6 +27,9 @@ Research Projects
 
 
 Course Projects 
------- 
-
+------------- 
+* *Object Counting by Leveraging CNN and LSTM with Multi-Source of Input*
+  * Designed and implemented a framework by leveraging CNN, LSTM and residual layer for vehicle counting, given input images suffering from low framerate, low resolution, high occlusion and large perspectives. 
+  * Trained and validated the model on TRANSCOS dataset with ~1200 images, evaluated the effectiveness of various data augmentation tricks such as flipping, cropping, and adjusting contrast/brightness. 
+  * Attained a 4.47 MAE that is comparable to state-of-the-art models. The full report can be found [here](https://milanlx.github.io/files/10707_project.pdf)
 
