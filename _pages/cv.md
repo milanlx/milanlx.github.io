@@ -13,7 +13,7 @@ Education
 ======
 * B.S. Dalian University of Technology, *Civil Engineering*, *Economics* (minor) 2007.9 - 2011.6
 * M.S. Dalian University of Technology, *Structural Engineering*, 2011.9 - 2014.6
-* M.S. Carnegie Mellon University, *Machine Learning*, 2018.9 - 2020.5 (*expected*)
+* M.S. Carnegie Mellon University, *Machine Learning*, 2018.9 - 2020.5
 * Ph.D. Carnegie Mellon University, *Civil Engineering*, 2016.9 - 2020.12 (*expected*)
 
 
