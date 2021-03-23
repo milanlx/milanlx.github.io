@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Civil Engineering Department](https://www.cmu.edu/cee/) at [Carnegie Mellon University](https://www.cmu.edu), advised by [Pine Liu](https://faculty.ce.cmu.edu/liu/) and [Sean Qian](https://faculty.ce.cmu.edu/qian/). A short version of my resume could be found [here](https://milanlx.github.io/files/xuanli_job_Sept_2019.pdf)
+I am a PhD student in the [Civil Engineering Department](https://www.cmu.edu/cee/) at [Carnegie Mellon University](https://www.cmu.edu), advised by [Pine Liu](https://faculty.ce.cmu.edu/liu/) and [Sean Qian](https://faculty.ce.cmu.edu/qian/). A short version of my resume could be found [here](https://milanlx.github.io/files/xuanli_job_Apr_2021.pdf) .
 
 **Research Interest**
 Interpretable Model Predictive Control; Spatial-temporal modeling of interdependent urban systems; stochastic control
