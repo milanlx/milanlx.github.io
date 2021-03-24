@@ -24,6 +24,13 @@ Research Projects
           <img src="/images/transResearch/example_weekday.png" width="45%" /> 
       </p>
       
+  * **spatial-temporal Graph Neural Network**: features including impact of time-of-day, day-of-week, etc. 
+
+
+      <p align="center">
+          <img src="/images/transResearch/gnn_outline.png" width="45%" />
+          <img src="/images/transResearch/gnn_model.png" width="45%" /> 
+      </p>
 
 
 
