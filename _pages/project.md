@@ -24,7 +24,9 @@ Research Projects
           <img src="/images/transResearch/example_weekday.png" width="45%" /> 
       </p>
       
-  * **Spatial-temporal Graph Neural Network**: features including impact of time-of-day, day-of-week, etc. 
+  * **Spatial-temporal Graph Neural Network**: For the next part, we aim to further improve the performance by building a model which can explicitly capture the spatial-temporal characteristics of traffic features, and also maintain interpretability to identify the impact of each covariate. Thus, we propose to implement a graph neural network with attention filters for this task. 
+
+ 
 
 
       <p align="center">
