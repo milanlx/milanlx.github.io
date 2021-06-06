@@ -16,24 +16,10 @@ Research Projects
 
       <p align="center"><img width="650" height="225" src='/images/transResearch/motivation.png'></p>
       
-   * **Correlation analysis**: Firstly, regression analysis was conducted to find and justify the most important factors from transportation domain. By implementing real-time data processing pipeline on 10G transportation dataset from public transit and inrix, we pre-selected citywide traffic features together with historical building electricity to build the spatial-temporal model. By further fine-grained analyzing in different time-of-day and day-of-week scale, it is validated that traffic features have significant impact on building electricities during weekdays, and the inclusion of these covariate can boost prediction performance especially during special event. In all, the fused model achieved a R2 of 0.91, which improved 18% when compared with baseline. The details of the project can be found [here](https://milanlx.github.io/files/trans_to_building_baseline.pdf)
-
-      
-      <p align="center">
-          <img src="/images/transResearch/feature_weekday.png" width="45%" />
-          <img src="/images/transResearch/example_weekday.png" width="45%" /> 
-      </p>
-      
-  * **Spatial-temporal Graph Neural Network**: For the next part, we aim to further improve the performance by building a model which can explicitly capture the spatial-temporal characteristics of traffic features, and also maintain interpretability to identify the impact of each covariate. Thus, we propose to implement a graph neural network with attention filters for this task. 
-
- 
+  * **Modeling**: Spatial-Temporal Graph Attention Network. 
 
 
-      <p align="center">
-          <img src="/images/transResearch/gnn_outline.png" width="45%" />
-          <img src="/images/transResearch/gnn_model.png" width="45%" /> 
-      </p>
-
+      <p align="center"><img width="700" height="225" src='/images/transResearch/STGAT.png'></p>
 
 
 * *Enhancing Vision-based Vehicle Detection and Tracking with Transportation Domain Features*
