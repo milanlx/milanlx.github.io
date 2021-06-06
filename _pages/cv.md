@@ -20,8 +20,9 @@ Education
 Work experience
 ------
 * 2016.3 - 2016.9: Data Scientist @  [LeanFM Technologies](http://www.leanfmtech.com/)
-  * Designed efficient raw text data processing pipeline, conducted feature selection testing and implemented Named Entity Recognition algorithm to extract domain-specific information from unstructured work order (facility management) dataset.
-  * Designed interactive interface (R Shiny) for data visualization and analysis
+  * Wrangled and standardized 1M work orders data from 5 sources, trained Named Entity Recognition models and achieved F1 score of 0.82.
+  * Designed interactive interface (R Shiny) for visual data analysis and work order labelling, which reduced overall process time by 30%.
+
 
   
 Course Work
