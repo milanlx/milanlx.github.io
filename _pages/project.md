@@ -12,12 +12,11 @@ youtubeId: detectionVideo
 Research Projects 
 --------------
 * *Using Multi-modal Transportation Data For Energy Prediction and Management in Buildings*
-  * **Motivation**: Urban systems, including transporations and buildings are highly interrelated given the spatial-temporal flow of system users. The change of magnitude of occupancy in one system can be in proportion to the fluctuation in one another. In this project we aim at investigating the edge potential of predicting the energy profile of buildings, from the rich and fine-grained transportation data including realtime traffic flow intensity, and public transit status. The refined prediction would further facilitate energy efficiency for demand-based building control [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1637222). 
+  * **Motivation**: Urban systems, including transporations and buildings are highly interrelated given the spatial-temporal flow of system users. The change of magnitude of occupancy in one system can be in proportion to the fluctuation in one another. In this project we aim at investigating the edge potential of predicting the energy profile of buildings, from the rich and fine-grained transportation data including realtime traffic flow intensity, and public transit status. The refined prediction would further improve the performance of Model Predictive Control (MPC) on building energy management. [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1637222). 
 
       <p align="center"><img width="650" height="225" src='/images/transResearch/motivation.png'></p>
       
-  * **Modeling**: Spatial-Temporal Graph Attention Network. 
-
+  * **Modeling**: The problem is formulated as a m-to-n task, i.e., to prediction the energy profile at next n quarters using all information available up to m quarters ago. A Spatial-Temporal Graph Attention Network (STGAT) framework is proposed to capture the heterogeneous dynamic of public transit (bus) and traffic flow (inrix), where the integrated information is passed to fully-connected networks with historical energy profile and weather features to make the prediction. When compared with state-of-the-art time series baseline models, it is validated the inclusion of ambient transporation reduced the overall RMSE from 0.0478 to 0.0418.
 
       <p align="center"><img width="900" height="300" src='/images/transResearch/STGAT.png'></p>
 
@@ -29,7 +28,7 @@ Research Projects
 
 
   * **Tracking**: The speed estimation problem is tackled by tracking-by-detection framework. Basically, we have fine-tuned YOLO with self-labelled data as detector, and adopted Deepsort framework as tracker. However, we used LSTM network trained with transportation features instead of the Kalman filter as the state estimation module. In addition, the deep appearance descriptor was fine-tuned using UA-DETRAC and self-labelled data. Tested on one hour's data, it is validated that the fused model improved MOTP from 78.5% to 80.6%, and MOTA from 65.7% to 68.3% respectively. A sample result is attached below. 
-                                 <p align="center"><img width="800" height="415" src='/images/tracking_framework.png'></p>
+                                 <p align="center"><img width="600" height="300" src='/images/tracking_framework.png'></p>
                                                    {% include youtubePlayer2.html id=page.detectionVideo %}
 
 
