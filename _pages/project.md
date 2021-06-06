@@ -28,7 +28,7 @@ Research Projects
 
 
   * **Tracking**: The speed estimation problem is tackled by tracking-by-detection framework. Basically, we have fine-tuned YOLO with self-labelled data as detector, and adopted Deepsort framework as tracker. However, we used LSTM network trained with transportation features instead of the Kalman filter as the state estimation module. In addition, the deep appearance descriptor was fine-tuned using UA-DETRAC and self-labelled data. Tested on one hour's data, it is validated that the fused model improved MOTP from 78.5% to 80.6%, and MOTA from 65.7% to 68.3% respectively. A sample result is attached below. 
-                                 <p align="center"><img width="600" height="300" src='/images/tracking_framework.png'></p>
+                                 <p align="center"><img width="600" height="300" src='/images/tracking_framework.png'>
                                                    {% include youtubePlayer2.html id=page.detectionVideo %}
 
 
