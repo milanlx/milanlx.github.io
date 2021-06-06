@@ -19,7 +19,7 @@ Research Projects
   * **Modeling**: Spatial-Temporal Graph Attention Network. 
 
 
-      <p align="center"><img width="800" height="250" src='/images/transResearch/STGAT.png'></p>
+      <p align="center"><img width="900" height="300" src='/images/transResearch/STGAT.png'></p>
 
 
 * *Enhancing Vision-based Vehicle Detection and Tracking with Transportation Domain Features*
