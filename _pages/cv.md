@@ -22,8 +22,13 @@ Work experience
   * Wrangled and standardized 1M work orders data from 5 sources, trained Named Entity Recognition models and achieved F1 score of 0.82.
   * Designed interactive interface (R Shiny) for visual data analysis and work order labelling, which reduced overall process time by 30%.
 
+Skills
+------
+* **Programming language**: Python, Java, C++, R, Matlab, JavaScript
+* **Machine Learning**: Graph Nueral Network, NLP, Computer Vision, Deep Learning
+* **Data Modeling**: Stochastic Control, Spatial-Temporal Analysis, Multimodal Analysis
+* **Packages**: PyTorch, Tensorflow, Numpy, Pandas, Sklearn, Statsmodels
 
-  
 Course Work
 ------
 * **Programming and Algorithm**: Introduction to Computer Systems (15513); Algorithms and Advanced Data Structures (15650); Data Structure for Application Programmers (08722); Java and J2EE Programming (08600)
