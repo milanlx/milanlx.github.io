@@ -14,7 +14,7 @@ Education
 * Ph.D. Carnegie Mellon University, *Civil Engineering*, 2016.9 - 2021.09 (*expected*)
 * M.S. Carnegie Mellon University, *Machine Learning*, 2018.9 - 2020.5
 * M.S. Dalian University of Technology, *Structural Engineering*, 2011.9 - 2014.6
-* B.S. Dalian University of Technology, *Civil Engineering*, *Economics* (minor) 2007.9 - 2011.6
+* B.S. Dalian University of Technology, *Civil Engineering*, *Economics* (minor), 2007.9 - 2011.6
 
 Work experience
 ------
