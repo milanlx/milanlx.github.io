@@ -7,7 +7,7 @@ author_profile: true
 Personal blog
 ---------------
 * One year experience of trading: [Trading Reflections](https://milanlx.github.io/files/trading_reflection.pdf)
-
+* Random thought 2022: [Stay Positive](https://milanlx.github.io/files/trading_2022_thoughts.pdf)
 
 
 Research blog
