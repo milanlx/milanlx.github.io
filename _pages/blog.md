@@ -6,10 +6,11 @@ author_profile: true
 
 Personal blog
 ---------------
-* One year experience of trading: [Trading Reflections](https://milanlx.github.io/files/trading_reflection.pdf)
+* ML thought 2022: [Trends and Projections](https://milanlx.github.io/files/ML_thoughts_2022.pdf)
 * Random thought 2022: [Stay Positive](https://milanlx.github.io/files/trading_2022_thoughts.pdf)
 * Insightful reading summary: [The Master Key](https://milanlx.github.io/files/blogs/the_master_key.pdf)
 * Lyrics 2022: [Short Trip](https://milanlx.github.io/files/short_trip.pdf)
+* One year experience of trading: [Trading Reflections](https://milanlx.github.io/files/trading_reflection.pdf)
 
 
 Research blog
