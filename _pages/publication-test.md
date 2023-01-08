@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 Machine Learning Track 
-======
+--------------
 * Workshop 
   * Contrastive Learning Improves Tabular AUC (*Amazon Machine Learning Conference (AMLC), Workshop on Deep Metrics Learning*)
 
 
 Engineering Track  
-======
+--------------
 
 * Jounrnal paper
   * Theoretical Analysis on Strain Transfer Error of FBG Sensors Attached on Steel Structures Subjected to Fatigue Load. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/str.12195)
