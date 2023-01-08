@@ -8,7 +8,7 @@ Machine Learning Track
 --------------
 * Workshop 
   * Meta and Contrastive Learning Improves Tabular AUC with Unlabeled Data, *Amazon Machine Learning Conference (AMLC)*, 2022
-    1. defined 
+    a. justified the effectiveness and generalizability of semi-supervised and self-supervised framework on two tabular application in Amazon. The proposed methods outperform production models. 
 
 Engineering Track  
 --------------
