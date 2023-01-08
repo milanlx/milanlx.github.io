@@ -4,12 +4,12 @@ permalink: /publication-test/
 author_profile: true
 ---
 
-Civil Engineering  
+Machine Learning Track 
 ======
 * Workshop 
   * Contrastive Learning Improves Tabular AUC (*Amazon Machine Learning Conference (AMLC), Workshop on Deep Metrics Learning*)
 
-Civil Engineering  
+Engineering Track  
 ======
 
 * Jounrnal paper
