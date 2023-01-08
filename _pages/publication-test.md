@@ -7,8 +7,7 @@ author_profile: true
 Machine Learning Track 
 --------------
 * Workshop 
-  * Meta and Contrastive Learning Improves Tabular AUC with Unlabeled Data (*Amazon Machine Learning Conference (AMLC), Workshop on Deep Metrics Learning*)
-
+  * Meta and Contrastive Learning Improves Tabular AUC with Unlabeled Data, *Amazon Machine Learning Conference (AMLC)*, 2022
 
 Engineering Track  
 --------------
