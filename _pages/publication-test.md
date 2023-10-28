@@ -6,7 +6,7 @@ author_profile: true
 
 Machine Learning Track 
 --------------
-* Tree-Regularized Tabular Embeddings, *NeurIPS Workshop*, 2022
+* Tree-Regularized Tabular Embeddings, *NeurIPS Workshop*, 2023
 
 * Meta and Contrastive Learning Improves Tabular AUC with Unlabeled Data, *Amazon Machine Learning Conference (AMLC)*, 2022
   * justified the effectiveness and generalizability of semi-supervised and self-supervised framework on two tabular application in Amazon. The proposed methods outperform production models. <br>
