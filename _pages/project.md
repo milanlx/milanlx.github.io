@@ -42,8 +42,8 @@ Course Projects
 
 * *Regression Analysis*
   - Investigated patterns and developed classification models that help to refine advertising strategies for regular check-ups in less developed countries. The full report is listed [here](https://milanlx.github.io/files/36707_project3.pdf). Essentially,
-  - A random forest model is chosen to rank the importance of covariates that motivate regular check-ups.
-  - A logistic regression model is implemented to identify key features and reference likelihood of the people that can be potentially persuaded for check-up.
+    - A random forest model is chosen to rank the importance of covariates that motivate regular check-ups.
+    - A logistic regression model is implemented to identify key features and reference likelihood of the people that can be potentially persuaded for check-up.
  
 * *Reinforcement Learning*
-  - implemented and evaluated a variety RL algorithm on Atari game: Space-Invaders-v0. A video demo can be found [here](https://youtu.be/c9XbhBs1WDI?si=bis9Ly0eHjrh476C).
+  - back in 2017, implemented and evaluated a variety RL algorithm on Atari game: Space-Invaders-v0. A video demo can be found [here](https://youtu.be/c9XbhBs1WDI?si=bis9Ly0eHjrh476C). The full report can be found [here](https://milanlx.github.io/files/10703_hw_2.pdf). 
