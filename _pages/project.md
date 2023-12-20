@@ -46,4 +46,4 @@ Course Projects
   - A logistic regression model is implemented to identify key features and reference likelihood of the people that can be potentially persuaded for check-up.
  
 * *Reinforcement Learning*
-  - implemented and evaluated a variety RL algorithm on Atari game: Space-Invaders-v0. A video demo can found [here](https://youtu.be/c9XbhBs1WDI?si=bis9Ly0eHjrh476C).
+  - implemented and evaluated a variety RL algorithm on Atari game: Space-Invaders-v0. A video demo can be found [here](https://youtu.be/c9XbhBs1WDI?si=bis9Ly0eHjrh476C).
