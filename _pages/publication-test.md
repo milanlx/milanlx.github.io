@@ -1,3 +1,7 @@
+a {
+  border-bottom: none !important;
+}
+
 ---
 title: "Publications"
 permalink: /publication-test/
@@ -15,7 +19,7 @@ Machine Learning Track
 Engineering Track  
 --------------
 
-* Theoretical Analysis on Strain Transfer Error of FBG Sensors Attached on Steel Structures Subjected to Fatigue Load. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/str.12195)
+* Theoretical Analysis on Strain Transfer Error of FBG Sensors Attached on Steel Structures Subjected to Fatigue Load. [link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/str.12195)
 * A wireless fatigue monitoring system utilizing a bio-inspired tree ring data tracking technique. [link](https://www.mdpi.com/1424-8220/14/3/4364/htm)
   
 * Towards an Occupancy-Enhanced Building HVAC Control Strategy Using Wi-Fi Probe Request Information. [link](https://ascelibrary.org/doi/abs/10.1061/9780784480847.003)
