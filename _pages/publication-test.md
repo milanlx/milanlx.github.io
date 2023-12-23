@@ -1,7 +1,3 @@
-a {
-  border-bottom: none !important;
-}
-
 ---
 title: "Publications"
 permalink: /publication-test/
