@@ -7,8 +7,8 @@ author_profile: true
 Personal blog
 ---------------
 * Investment:
-  * ss
-  * dd
+  - ss
+  - dd
 
 * Investment thought 2023: [Left, Left, Right](https://milanlx.github.io/files/blogs/trading_2023_thoughts.pdf)
 * ML thought 2022: [Trends and Projections](https://milanlx.github.io/files/blogs/ML_thoughts_2022.pdf)
