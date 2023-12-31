@@ -7,7 +7,8 @@ author_profile: true
 Personal blog
 ---------------
 * Investment
-  - 2023 midterm: [Left, Left, Right](https://milanlx.github.io/files/blogs/trading_2023_thoughts.pdf)
+  - 2023 final:   [Keep Believing in Futures](https://milanlx.github.io/files/blogs/trading_2023_final.pdf)
+  - 2023 midterm: [Left, Left, Right](https://milanlx.github.io/files/blogs/trading_2023_midterm.pdf)
   - 2022 midterm: [Stay Positive](https://milanlx.github.io/files/trading_2022_thoughts.pdf)
   - 2021 midterm: [Trading Reflections](https://milanlx.github.io/files/trading_reflection.pdf)
 
