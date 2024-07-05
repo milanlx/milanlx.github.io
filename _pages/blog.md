@@ -14,6 +14,7 @@ Personal blog
 
 * ML overview
   - 2022 final: [Trends and Projections](https://milanlx.github.io/files/blogs/ML_thoughts_2022.pdf)
+  - 2024 midterm: [Ocean Deep](https://milanlx.github.io/files/blogs/ML_thoughts_2024.pdf)
 
 * MISC
   - reading summary: [The Master Key](https://milanlx.github.io/files/blogs/the_master_key.pdf)
