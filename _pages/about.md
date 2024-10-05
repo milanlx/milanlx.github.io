@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist at Amazon and went to graduate school at Carnegie Mellon University, with M.S. in Machine Learning (2020). I am interested in multimodal and reinforcement learning, and also have expertise in graph neural networks, diffusion model and optimal control. My research intuitions are mainly inspired from interdisciplinary analogy, and some of my thoughts are outlined in those [blogs](https://milanlx.github.io/blog/).
+I am an Applied Scientist at Amazon and went to graduate school at Carnegie Mellon University, with a M.S. in Machine Learning (2020). I am interested in multimodal and reinforcement learning, and also have expertise in graph neural networks, diffusion model and optimal control. My research intuitions are mainly inspired from interdisciplinary analogy, and some of my thoughts are outlined in those [blogs](https://milanlx.github.io/blog/).
 
 Besides research, I am fan of soccer, tennis, investment and philosophy. My home teams are **<span style="color: red"> AC </span> Milan**
  and [Dalian Pro FC](http://www.dlpro.com.cn/), and favourite writers are *Milan Kundera* and *J. D. Salinger*.  
