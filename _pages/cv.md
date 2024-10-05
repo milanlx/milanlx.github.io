@@ -19,8 +19,9 @@ Education
 Work experience
 ------
 * 2021.11 - : applied scientist @ Amazon 
+  * end-to-end development and deployment of offline Reinfocement Learning-based agent 
   * develop fraud prevention model and maintain evaluation system end-to-end 
-  * tabular represenation learning through tree-based encoding and diffusion process   
+  * tabular represenation learning through tree-based encoding  
 * 2016.3 - 2016.9: Data Scientist @  [LeanFM Technologies](http://www.leanfmtech.com/)
   * wrangled and standardized 1M work orders data from 5 sources, trained Named Entity Recognition models and achieved F1 score of 0.85.
   * designed interactive interface (R Shiny) for visual data analysis and work order labelling, which reduced overall processing time by 30%.
