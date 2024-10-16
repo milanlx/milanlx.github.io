@@ -29,7 +29,7 @@ Work experience
 Skills
 ------
 * **Programming language**: Python, Java, C++, R, Matlab, JavaScript
-* **Machine Learning**: Graph Nueral Network, Contrastive Learning, NLP, Computer Vision
+* **Machine Learning**: Graph Nueral Network, Reinforcement Learning, NLP, Computer Vision
 * **Data Modeling**: Stochastic Control, Spatial-Temporal Modeling, Multimodal Analysis
 * **Packages**: PyTorch, Tensorflow, Numpy, Pandas, Sklearn, Statsmodels
 
