@@ -13,8 +13,9 @@ Personal
   - 2021 midterm: [Trading Reflections](https://milanlx.github.io/files/trading_reflection.pdf)
 
 * ML overview
-  - 2022 final: [Trends and Projections](https://milanlx.github.io/files/blogs/ML_thoughts_2022.pdf)
+  - 2024 final: [A Minimal Introduction to Reinforcement Learning](https://milanlx.github.io/files/blogs/rl_intro_2024.pdf)
   - 2024 midterm: [Ocean Deep](https://milanlx.github.io/files/blogs/ML_thoughts_2024.pdf)
+  - 2022 final: [Trends and Projections](https://milanlx.github.io/files/blogs/ML_thoughts_2022.pdf)
 
 * MISC
   - reading summary: [The Master Key](https://milanlx.github.io/files/blogs/the_master_key.pdf)
