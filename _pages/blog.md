@@ -4,7 +4,9 @@ permalink: /blog/
 author_profile: true
 ---
 
-Personal
+A place for me to post thoughts on a broad spectrum of topics. 
+
+On Investment and Machine Learning 
 ---------------
 * Investment
   - 2023 final:   [Keep Believing in Futures](https://milanlx.github.io/files/blogs/trading_2023_final.pdf)
@@ -22,7 +24,7 @@ Personal
   - lyrics 2022: [Short Trip](https://milanlx.github.io/files/short_trip.pdf)
   
 
-Research
+On Research
 ---------------
 
 * *Diffusion Models*: [A Very Short Introduction to Diffusion Models](https://milanlx.github.io/files/blogs/diffusion.pdf)
