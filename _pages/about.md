@@ -22,7 +22,7 @@ graph neural networks; stochastic control; tabular embedding; diffusion model; s
 My current research focuses on implementing generalizable Model Predictive Control policies that can be integrated with existing building HVAC control frameworks, and spatial-temporal graph neural networks to infer interactions in urban systems such as building and transportation. Before coming to CMU, I obtained M.S. in Structural Engineering, and B.S in Civil Engineering, both from [Dalian University of Technology](https://en.dlut.edu.cn/), fortunated to have been supervised by [Jinping Ou](http://homepage.hit.edu.cn/oujinping) and worked on [optimal sensor placement of deepwater risers](https://milanlx.github.io/files/Master%20Dissertation%20(original).pdf) ([slides](https://milanlx.github.io/files/mastet_thesis_short_version.pdf)). I also obtained a M.S. in Machine Learning at CMU on 2020. 
 -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P2urzBnpN9rmrP2fXgQSA3bN2P4zwPbVZ3NZ9U3UTHs&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P2urzBnpN9rmrP2fXgQSA3bN2P4zwPbVZ3NZ9U3UTHs&cl=ffffff&w=50"></script>
 
 <!---
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5rhwi7l31w4&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
