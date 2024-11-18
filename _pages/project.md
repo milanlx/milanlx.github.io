@@ -11,7 +11,7 @@ youtubeId: detectionVideo
 
 Research Projects 
 --------------
-* *Using Multi-modal Transportation Data For Energy Prediction and Management in Buildings*
+* *Using Multi-modal Transportation Data For Energy Prediction and Management in Buildings (2019)*
   * **Motivation**: Urban systems, including transporations and buildings are highly interrelated given the spatial-temporal flow of system users. The change of magnitude of occupancy in one system can be in proportion to the fluctuation in one another. In this project we aim at investigating the edge potential of predicting the energy profile of buildings, from the rich and fine-grained transportation data including realtime traffic flow intensity, and public transit status. The refined prediction would further improve the performance of Model Predictive Control (MPC) on building energy management. [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1637222). 
 
       <p align="center"><img width="650" height="225" src='/images/transResearch/motivation.png'></p>
@@ -21,7 +21,7 @@ Research Projects
       <p align="center"><img width="900" height="300" src='/images/transResearch/STGAT.png'></p>
 
 
-* *Enhancing Vision-based Vehicle Detection and Tracking with Transportation Domain Features*
+* *Enhancing Vision-based Vehicle Detection and Tracking with Transportation Domain Features (2019)*
   * **Motivation**: Intelligent Transportation Systems (ITS) are critical components to strengthen travel safety, reduce congestion and improve urban mobilities. The reliability of the system depends on spatial-temporal analytics of key traffic parameters such as density, volume, and speed, which are inferred from sensors including loop detectors and cameras using computer vision. However, the former sensors suffer from high initial costs and low frequency, while the latter may deteriorate in high occlusion and large perspective cases. Thus, in this series of research we explore the effectiveness of fusing features captured by existing transportation sensors and vision-based models for traffic parameter inference. Specifically, we have leveraged domain features with convolutional neural networks to estimate vehicle density and speed (through tracking) separately. Compared with pure visual techniques, it is validated that the inclusion of domain features improves the overall performance, and we look forward to expanding the model for other transportation tasks in future.
  
   * **Detection**: To esimate the density of vehicles, we implemented a model with CNN+rLSTM module for image inputs, and LSTM module for processed transportation features including location of buses and average traffic speed. Compared with pure vision-based detection model YOLO, we have reduced the MAE from 0.73 to 0.27, and justified the effectiveness of domain features. The detailed implementation can be found [here](https://milanlx.github.io/files/trans_detection.pdf). 
@@ -35,15 +35,15 @@ Research Projects
 
 Course Projects 
 ------------- 
-* *Object Counting by Leveraging CNN and LSTM with Multi-Source of Input*
+* *Object Counting by Leveraging CNN and LSTM with Multi-Source of Input (2017)*
   - Designed and implemented a framework by leveraging CNN, LSTM and residual layer for vehicle counting, given input images suffering from low framerate, low resolution, high occlusion and large perspectives. 
   - Trained and validated the model on TRANSCOS dataset with ~1200 images, evaluated the effectiveness of various data augmentation tricks such as flipping, cropping, and adjusting contrast/brightness. 
   - Attained a 4.47 MAE that is comparable to state-of-the-art models. The full report can be found [here](https://milanlx.github.io/files/10707_project.pdf). 
 
-* *Regression Analysis*
+* *Regression Analysis (2019)*
   - Investigated patterns and developed classification models that help to refine advertising strategies for regular check-ups in less developed countries. The full report is listed [here](https://milanlx.github.io/files/36707_project3.pdf). Essentially,
     - A random forest model is chosen to rank the importance of covariates that motivate regular check-ups.
     - A logistic regression model is implemented to identify key features and reference likelihood of the people that can be potentially persuaded for check-up.
  
-* *Reinforcement Learning*
+* *Reinforcement Learning (2017)*
   - back in 2017, I implemented and evaluated a variety of RL models on Atari game: Space-Invaders-v0. A video demo can be found [here](https://youtu.be/c9XbhBs1WDI?si=bis9Ly0eHjrh476C). The full report can be found [here](https://milanlx.github.io/files/10703_hw_2.pdf). 
