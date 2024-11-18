@@ -1,16 +1,14 @@
-# main links links
+# main links
 main:
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Project"
+    url: /project/
   
   - title: "Publications"
     url: /publication-test/
-        
+      
   - title: "CV"
-    url: /cv/
-    
-  - title: "Project"
-    url: /project/
-    
-  - title: "Blog"
-    url: /blog/
-    
-
+    url: /cv/  
