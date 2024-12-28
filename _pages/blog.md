@@ -14,6 +14,7 @@ On Investment and Machine Learning
   - 2022 final: [ML Trends and Projections](https://milanlx.github.io/files/blogs/ML_thoughts_2022.pdf)
 
 * Investment
+  - 2024 final: Going Long: A Glimpse into Long-term Investing (TBD)
   - 2023 final:   [Keep Believing in Futures](https://milanlx.github.io/files/blogs/trading_2023_final.pdf)
   - 2023 midterm: [Left, Left, Right](https://milanlx.github.io/files/blogs/trading_2023_midterm.pdf)
   - 2022 midterm: [Stay Positive](https://milanlx.github.io/files/trading_2022_thoughts.pdf)
