@@ -6,7 +6,7 @@ author_profile: true
 
 A place for me to post thoughts on a broad spectrum of topics. 
 
-On Investment and AI
+Overviews on AI and Investment
 ---------------
 * AI / ML
   - 2024 final: [A Minimal Introduction to Reinforcement Learning](https://milanlx.github.io/files/blogs/rl_intro_2024.pdf)
@@ -19,13 +19,13 @@ On Investment and AI
   - 2023 midterm: [Left, Left, Right](https://milanlx.github.io/files/blogs/trading_2023_midterm.pdf)
   - 2022 midterm: [Stay Positive](https://milanlx.github.io/files/trading_2022_thoughts.pdf)
   - 2021 midterm: [Trading Reflections](https://milanlx.github.io/files/trading_reflection.pdf)
+ 
 
-* MISC
-  - reading summary: [The Master Key](https://milanlx.github.io/files/blogs/the_master_key.pdf)
-  - lyrics 2022: [Short Trip](https://milanlx.github.io/files/short_trip.pdf)
-  
+Tech Stack
+---------------
+* LLM Infra
 
-On Research
+Research Stack
 ---------------
 
 * *Diffusion Models*: [A Very Short Introduction to Diffusion Models](https://milanlx.github.io/files/blogs/diffusion.pdf)
