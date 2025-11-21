@@ -6,6 +6,7 @@ author_profile: true
 
 A place for me to post thoughts on a broad spectrum of topics. 
 
+
 On AI and Investment
 ---------------
 * AI / ML
@@ -24,6 +25,12 @@ On AI and Investment
 Tech Stack
 ---------------
 * LLM Infra
+  - Session 5:  [Docker + K8s + Ray: cloud LLM infra for SFT, RL (GRPO) and Serving](https://milanlx.github.io/files/blogs/tech-stack/tech_stack.pdf)
+  - Session 4:  [GPU Programming](https://milanlx.github.io/files/blogs/tech-stack/gpu.pdf)
+  - Session 3:  [Optimizations and LLM Inference](https://milanlx.github.io/files/blogs/tech-stack/inference.pdf)
+  - Session 2:  [Parallelism and LLM Training](https://milanlx.github.io/files/blogs/tech-stack/training.pdf)
+  - Session 1:  [Transformer Model](https://milanlx.github.io/files/blogs/tech-stack/model.pdf)
+
 
 Research Stack
 ---------------
