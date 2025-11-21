@@ -6,7 +6,7 @@ author_profile: true
 
 A place for me to post thoughts on a broad spectrum of topics. 
 
-Overviews on AI and Investment
+On AI and Investment
 ---------------
 * AI / ML
   - 2024 final: [A Minimal Introduction to Reinforcement Learning](https://milanlx.github.io/files/blogs/rl_intro_2024.pdf)
