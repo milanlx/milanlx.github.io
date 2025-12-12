@@ -7,12 +7,6 @@ author_profile: true
 A place for me to post thoughts on a broad spectrum of topics. 
 
 
-
-<video width="320" height="240" controls>
-  <source src="https://milanlx.github.io/files/video/cartpole_epoch_200.mp4" type="video/mp4">
-</video>
-
-
 On AI and Investment
 ---------------
 * AI / ML
