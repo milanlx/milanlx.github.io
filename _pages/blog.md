@@ -12,6 +12,7 @@ On AI and Investment
 * AI / ML
   - 2025 final: [Simplicity Scales](https://milanlx.github.io/files/blogs/ml-thought/simple_scale.pdf)
   - 2024 final: [A Minimal Introduction to Reinforcement Learning](https://milanlx.github.io/files/blogs/rl_intro_2024.pdf)
+  - ![Description of the video]([your_video_file.mp4](https://milanlx.github.io/files/video/cartpole_epoch_200.mp4))
   - 2024 midterm: [Ocean Deep - A Glimpse of Intelligence](https://milanlx.github.io/files/blogs/ML_thoughts_2024.pdf)
   - 2022 final: [ML Trends and Projections](https://milanlx.github.io/files/blogs/ML_thoughts_2022.pdf)
 
