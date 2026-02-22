@@ -26,6 +26,7 @@ On AI and Investment
 Tech Stack
 ---------------
 * LLM Infra (2025)
+  - Session 6:  [Agentic RL Training](https://milanlx.github.io/files/blogs/tech-stack/agentic_rl.pdf)
   - Session 5:  [Docker + K8s + Ray: cloud infra for SFT, RL (GRPO) and Serving](https://milanlx.github.io/files/blogs/tech-stack/tech_stack.pdf)
   - Session 4:  [GPU Programming](https://milanlx.github.io/files/blogs/tech-stack/gpu.pdf)
   - Session 3:  [Optimizations and LLM Inference](https://milanlx.github.io/files/blogs/tech-stack/inference.pdf)
