@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist at Amazon and went to graduate school at Carnegie Mellon University, with a M.S. in Machine Learning (2020). I am interested in agentic reinforcement learning for language models, and also have priors in multimodal learning and optimal control. My research intuitions stem from first principles and neuroscience. Some of the ideas and learnings are outlined in those [blogs](https://milanlx.github.io/blog/).
+I am an Applied Scientist at Amazon and went to graduate school at Carnegie Mellon University, with a M.S. in Machine Learning (2020). I am interested in agentic reinforcement learning for language models, and also have priors in multimodal learning and optimal control. My research intuitions stem from first principles and neuroscience. Thoughts and learnings are listed in those [blogs](https://milanlx.github.io/blog/).
 
 Besides research, I am fan of soccer, tennis, golf, investment and philosophy. My home teams are **<span style="color: red"> AC </span> Milan**
  and [Dalian Young Boy FC](https://weibo.com/7762205779). and favourite writers are *Milan Kundera* and *J. D. Salinger*.  
