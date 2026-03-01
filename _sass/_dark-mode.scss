@@ -6,8 +6,11 @@
 [data-theme="dark"] {
 
   /* ---- Body & global text ---- */
-  body {
+  &, body {
     background-color: #121212;
+  }
+
+  body {
     color: #e0e0e0;
   }
 
