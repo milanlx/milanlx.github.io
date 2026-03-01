@@ -1,5 +1,35 @@
 {% include base_path %}
 
+<script>
+(function() {
+  var saved = localStorage.getItem('theme');
+  var theme = saved || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  if (theme === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+  document.addEventListener('DOMContentLoaded', function() {
+    var icon = document.querySelector('.theme-toggle i');
+    if (icon && theme === 'dark') {
+      icon.className = 'fas fa-sun';
+    }
+  });
+  window.toggleTheme = function() {
+    var current = document.documentElement.getAttribute('data-theme');
+    var next = current === 'dark' ? 'light' : 'dark';
+    if (next === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    } else {
+      document.documentElement.removeAttribute('data-theme');
+    }
+    localStorage.setItem('theme', next);
+    var icon = document.querySelector('.theme-toggle i');
+    if (icon) {
+      icon.className = next === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+    }
+  };
+})();
+</script>
+
 <!-- start custom head snippets -->
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">

@@ -1,0 +1,386 @@
+/* ==========================================================================
+   Dark Mode Overrides
+   Scoped under [data-theme="dark"] on <html>
+   ========================================================================== */
+
+[data-theme="dark"] {
+
+  /* ---- Body & global text ---- */
+  body {
+    background-color: #1a1a2e;
+    color: #e0e0e0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+  }
+
+  /* ---- Links ---- */
+  a {
+    color: $info-color;
+
+    &:visited {
+      color: mix(#000, $info-color, 10%);
+    }
+
+    &:hover {
+      color: lighten($info-color, 15%);
+    }
+  }
+
+  /* ---- Masthead ---- */
+  .masthead {
+    background-color: #16213e;
+    border-bottom-color: #2a2a4a;
+  }
+
+  .greedy-nav {
+    background: #16213e;
+
+    a {
+      color: #c0c0d0;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+
+    .hidden-links {
+      background: #1a1a2e;
+      border-color: #2a2a4a;
+
+      a:hover {
+        background: #2a2a4a;
+      }
+
+      &:before {
+        border-color: #2a2a4a transparent;
+      }
+
+      &:after {
+        border-color: #1a1a2e transparent;
+      }
+    }
+  }
+
+  /* ---- Footer ---- */
+  .page__footer {
+    background-color: #0f3460;
+    border-top-color: #2a2a4a;
+    color: #b0b0c0;
+
+    a {
+      color: #b0b0c0;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+
+    .fas, .fab, .far, .fal {
+      color: #b0b0c0;
+    }
+  }
+
+  /* ---- Inline code ---- */
+  p > code,
+  a > code,
+  li > code,
+  figcaption > code,
+  td > code {
+    background: #2a2a4a;
+    border-color: #3a3a5a;
+    color: #e0e0e0;
+  }
+
+  /* ---- Code blocks & syntax highlighting ---- */
+  div.highlighter-rouge,
+  figure.highlight {
+    background-color: #1e1e30;
+    border-color: #2a2a4a;
+    box-shadow: none;
+
+    &:before {
+      background-color: #2a2a4a;
+    }
+  }
+
+  /* Monokai-inspired dark syntax colors */
+  .highlight {
+    .c, .cm, .c1, .cs { color: #75715e; }  /* Comments */
+    .err            { color: #f92672; }       /* Error */
+    .k, .kn, .kp    { color: #66d9ef; }      /* Keywords */
+    .o, .ow         { color: #f92672; }       /* Operators */
+    .p              { color: #c0c0d0; }       /* Punctuation */
+    .n, .nx, .nl, .nn, .py { color: #c0c0d0; } /* Names */
+    .g, .ge, .go, .gp, .gs, .gt { color: #c0c0d0; }
+    .kc, .no, .ni, .ne, .x { color: #fd971f; } /* Constants */
+    .kd, .kr, .nc, .nd, .nf, .nt, .nv,
+    .bp, .vc, .vg, .vi { color: #a6e22e; }   /* Declarations */
+    .kt             { color: #66d9ef; font-style: italic; } /* Types */
+    .m, .mf, .mh, .mi, .mo, .il { color: #ae81ff; } /* Numbers */
+    .s, .sb, .sc, .sd, .s2, .se, .sh,
+    .si, .sx, .sr, .s1, .ss { color: #e6db74; } /* Strings */
+    .na             { color: #a6e22e; }       /* Attributes */
+    .nb             { color: #66d9ef; }       /* Builtins */
+    .gh, .gu        { color: #75715e; }       /* Headings */
+    .gd             { color: #f92672; }       /* Deleted */
+    .gi             { color: #a6e22e; }       /* Inserted */
+    .gr             { color: #f92672; }       /* Error */
+    .cp             { color: #75715e; }       /* Preprocessor */
+    .w              { color: #c0c0d0; }       /* Whitespace */
+    .l, .ld         { color: #ae81ff; }       /* Literals */
+  }
+
+  /* ---- Borders ---- */
+  hr {
+    border-top-color: #2a2a4a;
+  }
+
+  .page__content h2 {
+    border-bottom-color: #2a2a4a;
+  }
+
+  /* ---- Sidebar ---- */
+  .author__avatar img {
+    border-color: #2a2a4a;
+  }
+
+  .author__urls {
+    background: #1a1a2e;
+    border-color: #2a2a4a;
+
+    &:before {
+      border-color: #2a2a4a transparent;
+    }
+
+    &:after {
+      border-color: #1a1a2e transparent;
+    }
+  }
+
+  /* ---- TOC ---- */
+  .toc {
+    background-color: #1e1e30;
+    border-color: #2a2a4a;
+    color: #b0b0c0;
+  }
+
+  .toc__menu a {
+    color: #b0b0c0;
+    border-bottom-color: #2a2a4a;
+
+    &:hover {
+      color: #fff;
+      background: #2a2a4a;
+    }
+  }
+
+  /* ---- Navigation list ---- */
+  .nav__sub-title {
+    border-bottom-color: #2a2a4a;
+  }
+
+  /* ---- Pagination ---- */
+  .pagination li a {
+    color: #b0b0c0;
+    border-color: #2a2a4a;
+
+    &:hover {
+      color: lighten($info-color, 15%);
+    }
+
+    &.disabled {
+      color: #4a4a6a;
+    }
+  }
+
+  .pagination--pager {
+    color: #b0b0c0;
+    border-color: #2a2a4a;
+
+    &:hover {
+      color: lighten($info-color, 15%);
+    }
+
+    &.disabled {
+      color: #4a4a6a;
+    }
+  }
+
+  .page__content + .pagination,
+  .page__meta + .pagination,
+  .page__share + .pagination,
+  .page__comments + .pagination {
+    border-top-color: #2a2a4a;
+  }
+
+  /* ---- Page meta & taxonomy ---- */
+  .page__meta {
+    color: #8888aa;
+  }
+
+  .page__taxonomy-item {
+    border-color: #2a2a4a;
+    color: #b0b0c0;
+  }
+
+  .page__share {
+    border-top-color: #2a2a4a;
+  }
+
+  .page__related {
+    border-top-color: #2a2a4a;
+  }
+
+  /* ---- Comments ---- */
+  .page__comments-title {
+    border-top-color: #2a2a4a;
+  }
+
+  .page__comments-form {
+    background: #1e1e30;
+  }
+
+  .comment:not(:last-child) {
+    border-bottom-color: #2a2a4a;
+  }
+
+  .comment__avatar {
+    border-color: #2a2a4a;
+  }
+
+  /* ---- Forms ---- */
+  input,
+  textarea,
+  select {
+    background-color: #1e1e30;
+    border-color: #3a3a5a;
+    color: #e0e0e0;
+  }
+
+  label {
+    color: #e0e0e0;
+  }
+
+  form legend {
+    color: #e0e0e0;
+    border-bottom-color: #3a3a5a;
+  }
+
+  /* ---- Blockquotes ---- */
+  blockquote {
+    border-left-color: $info-color;
+    color: #b0b0c0;
+  }
+
+  /* ---- Tables ---- */
+  table {
+    color: #e0e0e0;
+  }
+
+  th {
+    background-color: #2a2a4a;
+    border-color: #3a3a5a;
+  }
+
+  td {
+    border-color: #2a2a4a;
+  }
+
+  /* ---- Figcaption ---- */
+  figcaption {
+    color: #8888aa;
+
+    a {
+      border-bottom-color: #3a3a5a;
+
+      &:hover {
+        color: #fff;
+        border-bottom-color: #fff;
+      }
+    }
+  }
+
+  /* ---- Abbreviations ---- */
+  abbr[title],
+  abbr[data-original-title] {
+    border-bottom-color: #3a3a5a;
+  }
+
+  /* ---- Underlines/Ins ---- */
+  u, ins {
+    border-bottom-color: #e0e0e0;
+  }
+
+  /* ---- Buttons ---- */
+  .btn {
+    color: #e0e0e0;
+
+    &--primary {
+      background-color: $info-color;
+      color: #fff;
+    }
+  }
+
+  /* ---- Notices ---- */
+  .notice,
+  .notice--primary,
+  .notice--info,
+  .notice--warning,
+  .notice--success,
+  .notice--danger {
+    color: #e0e0e0;
+  }
+
+  /* ---- Archive items ---- */
+  .archive__item-teaser {
+    border-color: #2a2a4a;
+  }
+
+  /* ---- Search ---- */
+  .search-content .search-input {
+    background-color: #1e1e30;
+    color: #e0e0e0;
+  }
+
+  /* ---- Theme toggle button ---- */
+  .theme-toggle {
+    background: none;
+    border: none;
+    color: #c0c0d0;
+    cursor: pointer;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+/* Theme toggle button — position in masthead */
+.masthead__inner-wrap {
+  position: relative;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: $gray;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 0.5rem;
+  z-index: 20;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $dark-gray;
+  }
+}
