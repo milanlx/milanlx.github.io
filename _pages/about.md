@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist at Amazon and went to graduate school at Carnegie Mellon University, with a M.S. in Machine Learning (2020). I am interested in multimodal and reinforcement learning, and also have expertise in graph neural networks, diffusion model and optimal control. My research intuitions are mainly inspired from interdisciplinary analogy, and some of my thoughts are outlined in those [blogs](https://milanlx.github.io/blog/).
+I am an Applied Scientist at Amazon and went to graduate school at Carnegie Mellon University, with a M.S. in Machine Learning (2020). I am interested in agentic reinforcement learning for language models, and also have priors in multimodal learning and optimal control. My research intuitions stem from first principles and neuroscience. Some of the ideas and learnings are outlined in those [blogs](https://milanlx.github.io/blog/).
 
-Besides research, I am fan of soccer, tennis, investment and philosophy. My home teams are **<span style="color: red"> AC </span> Milan**
- and [Dalian Pro FC](http://www.dlpro.com.cn/), and favourite writers are *Milan Kundera* and *J. D. Salinger*.  
+Besides research, I am fan of soccer, tennis, golf, investment and philosophy. My home teams are **<span style="color: red"> AC </span> Milan**
+ and [Dalian Young Boy FC](https://weibo.com/7762205779). and favourite writers are *Milan Kundera* and *J. D. Salinger*.  
 
 <!---
 I am a PhD student in the [Civil Engineering Department](https://www.cmu.edu/cee/) at [Carnegie Mellon University](https://www.cmu.edu), advised by [Pine Liu](https://faculty.ce.cmu.edu/liu/) and [Sean Qian](https://faculty.ce.cmu.edu/qian/). A short version of my resume could be found [here](https://milanlx.github.io/files/work_resume.pdf) .
