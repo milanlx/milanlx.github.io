@@ -18,7 +18,8 @@ Education
 
 Work experience
 ------
-* 2021.11 - : applied scientist @ Amazon 
+* 2021.11 - : applied scientist @ Amazon
+  * set up infra and implement agentic RL training with AWS + K8s for internal use cases 
   * end-to-end development and deployment of offline Reinfocement Learning-based agent 
   * develop fraud prevention model and maintain evaluation system end-to-end 
   * tabular represenation learning through tree-based encoding  
@@ -29,15 +30,15 @@ Work experience
 Skills
 ------
 * **Programming language**: Python, Java, C++, R, Matlab, JavaScript
-* **Machine Learning**: Graph Nueral Network, Reinforcement Learning, NLP, Computer Vision
+* **Machine Learning**: Reinforcement Learning, Language model, Graph Nueral Network, Computer Vision
 * **Data Modeling**: Stochastic Control, Spatial-Temporal Modeling, Multimodal Analysis
-* **Packages**: PyTorch, Tensorflow, Numpy, Pandas, Sklearn, Statsmodels
+* **Tools**: PyTorch, Claude Code
 
 Course Work
 ------
-* **Programming and Algorithm**: Introduction to Computer Systems (15513); Algorithms and Advanced Data Structures (15650); Data Structure for Application Programmers (08722); Java and J2EE Programming (08600)
 * **Machine Learning and Statistics, thoery**: Introduction to Machine Learning (10701); Reinforcement Learning (10703); Topics in Deep Learning (10707); Advanced Machine Learning (10716); Regression Analysis (36707); Probability Models and Stochastic Processes (36733)
 * **Machine Learning, application**: Machine Learning with Large Datasets (10605); Machine Learning for Text Mining (11741); Speech Recognition and Understanding (11751); Computer Vision (16720)
+* **Programming and Algorithm**: Introduction to Computer Systems (15513); Algorithms and Advanced Data Structures (15650); Data Structure for Application Programmers (08722); Java and J2EE Programming (08600)
 * **Control and Optimization**: Convex Optimization (10725); Dynamic Programming (47840); Stochastic Control and Application in Finance (21882)
  
   
