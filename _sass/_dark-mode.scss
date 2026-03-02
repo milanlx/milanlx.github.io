@@ -395,7 +395,8 @@
   }
 
   @media screen and (max-width: $large) {
-    right: 8em; /* clear the hamburger menu button */
+    right: 3em; /* clear the hamburger menu button */
+    right: 30%; 
   }
 }
 
