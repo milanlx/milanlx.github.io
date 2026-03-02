@@ -393,6 +393,10 @@
   &:hover {
     color: $dark-gray;
   }
+
+  @media screen and (max-width: $large) {
+    right: 3em; /* clear the hamburger menu button */
+  }
 }
 
 /* ---- Responsive video embed ---- */
