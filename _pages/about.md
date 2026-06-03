@@ -24,7 +24,6 @@ My current research focuses on implementing generalizable Model Predictive Contr
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=iSFfhkcO1Pf4RwqnPfFcmcsuVg69qqDkciN68KqVK6g&cl=ffffff&w=200"></script>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P2urzBnpN9rmrP2fXgQSA3bN2P4zwPbVZ3NZ9U3UTHs&cl=ffffff&w=200"></script>
 
 <!---
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5rhwi7l31w4&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
